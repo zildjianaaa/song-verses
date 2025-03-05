@@ -2,3 +2,8 @@ Three little ducks went swimming one day,
 Over the hill and far away.
 Mother duck said, “Quack, quack, quack, quack,”
 But only two little ducks came back.
+
+Two little ducks went swimming one day,
+Over the hill and far away.
+Mother duck said, “Quack, quack, quack, quack,”
+But only one little duck came back.
